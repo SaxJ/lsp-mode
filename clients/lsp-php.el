@@ -85,7 +85,7 @@
   :link '(url-link "https://github.com/bmewburn/vscode-intelephense")
   :package-version '(lsp-mode . "6.1"))
 
-(defcustom-lsp lsp-intelephense-php-version "8.0.1"
+(defcustom-lsp lsp-intelephense-php-version "8.1.0"
   "Minimum version of PHP to refer to. Affects code actions, diagnostic &
 completions."
   :type 'string
